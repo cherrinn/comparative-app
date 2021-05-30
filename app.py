@@ -4,7 +4,7 @@ import plotly.graph_objects as go
 import matplotlib.pyplot as plt
 import matplotlib.patches as mpatches
 from data_preprocess import *
-import numpy as np
+
 
 st.title('Project 402')
 classifier = ["k-Nearest Neighbors (KNN)","Decision Tree","Support vector machine (SVM)","Gaussian process","Multilayer perceptron (MLP)"]
