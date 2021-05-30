@@ -25,7 +25,6 @@ from sklearn import tree
 from sklearn.neural_network import MLPClassifier
 from sklearn.metrics import accuracy_score
 from sklearn.model_selection import GridSearchCV
-import numpy as np
 
 def get_data(gridSize):
     creatGrid(min_lon, max_lon, min_lat, max_lat, gridSize)
