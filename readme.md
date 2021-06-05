@@ -21,6 +21,7 @@ https://comparative-app.herokuapp.com/
 Before you begin, ensure you have met the following requirements:
 
 You have a Windows/Linux/Mac machine running Python 3.6+.
+
 You have installed the latest versions of pip ``
 pip install pip ``
 and Anaconda
@@ -29,8 +30,9 @@ https://www.anaconda.com/products/individual#Downloads.
 ``
 
 ## installation
+To install the dependencies, you can simply follow this steps.
 
-#### first, you need to clone this repositories
+#### first, clone this repositories
 Using HTTPS:
 ```
 git clone https://github.com/cherrinn/comparative-app.git
