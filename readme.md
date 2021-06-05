@@ -50,7 +50,6 @@ streamlit run app.py
 Runs the app in the development mode.
 Open http://localhost:8501 to view it in the browser.
 
-
 ## How to Deploy Streamlit Apps to Heroku. (Option)
 you need to have Account of Heroku and Github.
 1. git clone https://github.com/cherrinn/comparative-app.git
