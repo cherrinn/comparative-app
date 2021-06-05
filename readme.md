@@ -20,8 +20,7 @@ https://comparative-app.herokuapp.com/
 ## Prerequisities
 Before you begin, ensure you have met the following requirements:
 
-You have a Windows/Linux/Mac machine running Python 3.6+.
-
+You have a Windows/Linux/Mac machine running Python 3.6+.\
 You have installed the latest versions of pip ``
 pip install pip ``
 and Anaconda
