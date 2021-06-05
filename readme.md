@@ -34,7 +34,6 @@ To install the dependencies, you can simply follow this steps.
 Using HTTPS:
 ```
 git clone https://github.com/cherrinn/comparative-app.git
-cd comparative-app
 ```
 Other Options: SSH, GitHub CLI
 
