@@ -36,12 +36,12 @@ pip install scikit-learn
 pip install streamlit
 ```
 
-## Start this project:
+## Start the project:
 ```
 streamlit run app.py
 ```
 Runs the app in the development mode.
 Open http://localhost:8501 to view it in the browser.
 
-## How to Deploy Streamlit Apps to Heroku
-you need to have Account Heroku and Github.
+<!-- ## How to Deploy Streamlit Apps to Heroku
+you need to have Account Heroku and Github. -->
