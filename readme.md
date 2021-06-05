@@ -19,8 +19,8 @@ https://comparative-app.herokuapp.com/
 ## Prerequisities
 Before you begin, ensure you have met the following requirements:
 
-You have a Windows/Linux/Mac machine running Python 3.6+.\
-You have installed the latest versions of pip ``
+- You have a Windows/Linux/Mac machine running Python 3.6+.\
+- You have installed the latest versions of pip ``
 pip install pip ``
 and Anaconda ``
 https://www.anaconda.com/products/individual#Downloads.
@@ -29,14 +29,14 @@ https://www.anaconda.com/products/individual#Downloads.
 ## Installation
 To install the dependencies, you can simply follow this steps.
 
-#### 1. clone this repositories
+1. clone this repositories
 Using HTTPS:
 ```
 git clone https://github.com/cherrinn/comparative-app.git
 ```
 Other Options: SSH, GitHub CLI
 
-#### 2. inside root folder you can type this Anaconda command
+2. inside root folder you can type this Anaconda command
 ```
 pip install pandas
 pip install plotly
