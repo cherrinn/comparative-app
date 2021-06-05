@@ -27,7 +27,7 @@ https://github.com/cherrinn/reactjs-movie-app.git
 ```
 Other Options: SSH, GitHub CLI
 
-Second, inside root folder you can type this command (if you use Window OS, you have to use Anaconda instead of Command line to install.)
+#### Second, inside root folder you can type this command (if you use Window OS, you have to use Anaconda instead of Command line to install.)
 ```
 pip install pandas
 pip install plotly
