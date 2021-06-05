@@ -20,7 +20,14 @@ https://comparative-app.herokuapp.com/
 ## installation
 require python
 
-if you use Window OS, you have to use Anaconda instead of Command line to install.
+#### first, you need to clone this repositories
+Using HTTPS:
+```
+https://github.com/cherrinn/reactjs-movie-app.git
+```
+Other Options: SSH, GitHub CLI
+
+Second, inside root folder you can type this command (if you use Window OS, you have to use Anaconda instead of Command line to install.)
 ```
 pip install pandas
 pip install plotly
@@ -32,6 +39,8 @@ pip install streamlit
 ```
 streamlit run app.py
 ```
+Runs the app in the development mode.
+Open http://localhost:8501 to view it in the browser.
 
 ## How to Deploy Streamlit Apps to Heroku
 you need to have Account Heroku and Github.
