@@ -43,7 +43,6 @@ pip install plotly
 pip install scikit-learn
 pip install streamlit
 ```
-
 ## Start the project:
 ```
 streamlit run app.py
