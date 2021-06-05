@@ -17,18 +17,24 @@ https://comparative-app.herokuapp.com/
 ### sample app works
 ![comparative-sample](https://user-images.githubusercontent.com/85073127/120879149-88521800-c5eb-11eb-8f21-4bbdb5327bc2.gif)
 
+## Prerequisities
+Before you begin, ensure you have met the following requirements:
+
+You have a Windows/Linux/Mac machine running Python 3.6+.
+You have installed the latest versions of pip and conda (Anaconda)
+https://www.anaconda.com/products/individual#Downloads.
+
 ## installation
-require python
 
 #### first, you need to clone this repositories
 Using HTTPS:
 ```
-git clone https://github.com/cherrinn/reactjs-movie-app.git
+git clone https://github.com/cherrinn/comparative-app.git
+cd comparative-app
 ```
 Other Options: SSH, GitHub CLI
 
-#### Second, inside root folder you can type this command
-##### (if you use Window OS, you have to use Anaconda instead of Command line to install.)
+#### Second, inside root folder you can type this Anaconda command
 ```
 pip install pandas
 pip install plotly
