@@ -21,10 +21,11 @@ https://comparative-app.herokuapp.com/
 Before you begin, ensure you have met the following requirements:
 
 You have a Windows/Linux/Mac machine running Python 3.6+.
-You have installed the latest versions of pip and Anaconda
+You have installed the latest versions of pip ``
+pip install pip ``
+and Anaconda
 ``
-pip: pip install pip
-Anaconda: https://www.anaconda.com/products/individual#Downloads.
+https://www.anaconda.com/products/individual#Downloads.
 ``
 
 ## installation
