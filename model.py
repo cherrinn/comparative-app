@@ -1,6 +1,5 @@
 from data_preprocess import *
 from sklearn.model_selection import train_test_split
-from sklearn.naive_bayes import GaussianNB
 
 #train 80%, test 20%
 x_train, x_test, y_train, y_test = train_test_split(feature, target, test_size = 0.2, random_state = 7)
@@ -19,12 +18,12 @@ grid_size = 0
 #--------------------------------------------------------------------------------------------------------------------------------#
 
 from sklearn.neighbors import KNeighborsClassifier
-from sklearn.svm import SVC 
 from sklearn.tree import DecisionTreeClassifier, export_graphviz
 from sklearn import tree
+from sklearn.naive_bayes import GaussianNB
 from sklearn.neural_network import MLPClassifier
+from sklearn.svm import SVC 
 from sklearn.metrics import accuracy_score
-from sklearn.model_selection import GridSearchCV
 
 def get_data(gridSize):
     creatGrid(min_lon, max_lon, min_lat, max_lat, gridSize)

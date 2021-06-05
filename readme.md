@@ -19,16 +19,12 @@ https://comparative-app.herokuapp.com/
 
 ## installation
 require python
+
+if you use Window OS, you have to use Anaconda instead of Command line to install.
 ```
-pip install scikit-learn
-pip install matplotlib
-pip install numpy
 pip install pandas
 pip install plotly
-```
-
-if you use window, you have to use Anaconda instead of Command line to install streamlit.
-```
+pip install scikit-learn
 pip install streamlit
 ```
 
