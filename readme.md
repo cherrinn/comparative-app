@@ -14,7 +14,27 @@ https://comparative-app.herokuapp.com/
 ### compare result
 ![compare-result](https://user-images.githubusercontent.com/85073127/120878955-1b8a4e00-c5ea-11eb-88f0-92211585736e.png)
 
-### sample
-
+### sample app works
+![comparative-sample](https://user-images.githubusercontent.com/85073127/120879149-88521800-c5eb-11eb-8f21-4bbdb5327bc2.gif)
 
 ## installation
+require python
+```
+pip install scikit-learn
+pip install matplotlib
+pip install numpy
+pip install pandas
+```
+
+if you use window, you have to use Anaconda instead of Command line to install streamlit.
+```
+pip install streamlit
+```
+
+## Start this project:
+```
+streamlit run app.py
+```
+
+## How to Deploy Streamlit Apps to Heroku
+you need to have Account Heroku and Github.
