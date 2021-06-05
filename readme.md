@@ -1,8 +1,7 @@
 # Comparative app
 ## Live demo
-```
 https://comparative-app.herokuapp.com/
-```
+
 
 ## Screenshot
 ### machine learning options
