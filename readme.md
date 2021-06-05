@@ -53,10 +53,8 @@ Open http://localhost:8501 to view it in the browser.
 
 ## How to Deploy Streamlit Apps to Heroku. (Option)
 you need to have Account of Heroku and Github.\
-require setup.sh, requirements.txt and Procfile
 1. git clone https://github.com/cherrinn/comparative-app.git\
-2. Make a file named app.py\
-3. git add .\
+2. git add .\
 4. git commit -m "Initial commit"\
 5. heroku login\
 6. heroku create --appname--\
