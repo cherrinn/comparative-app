@@ -60,4 +60,4 @@ you need to have Account of Heroku and Github.
 6. heroku create --appname--
 7. heroku git:remote -a --appname--
 8. git push heroku master
-9. run app with https://appname.herokuapp.com/ **appname from step 6**
+9. run app with https://appname.herokuapp.com/ **(appname from step 6)**
