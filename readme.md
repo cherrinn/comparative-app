@@ -19,18 +19,16 @@ https://comparative-app.herokuapp.com/
 ## Prerequisities
 Before you begin, ensure you have met the following requirements:
 - You have a Windows/Linux/Mac machine running Python 3.6+ : ``https://www.python.org/downloads/``.
-- You have installed the latest versions of pip : ``pip install pip`` in command Prompt.
-- You have installed the latest versions of Anaconda : ``https://www.anaconda.com/products/individual#Downloads.``
+- You have installed the latest versions of pip : ``pip install pip`` in Command Prompt.
+- You have the latest versions of Anaconda : ``https://www.anaconda.com/products/individual#Downloads.``
 
 ## Installation
 To install the dependencies, you can simply follow this steps.
 
 1. clone this repositories in ``Anaconda command``
-Using HTTPS:
 ```
 git clone https://github.com/cherrinn/comparative-app.git
 ```
-Other Options: SSH, GitHub CLI
 
 2. inside root folder <em>(change from the current directory to comparative-experiments)</em> you can type this.
 ```
