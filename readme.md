@@ -30,7 +30,7 @@ To install the dependencies, you can simply follow this steps.
 git clone https://github.com/cherrinn/comparative-app.git
 ```
 
-2. inside root folder <em>(change from the current directory to comparative-app)</em> you can type this.
+2. inside root folder <em>(change from the current directory to 'comparative-app' directory)</em> you can type this.
 ```
 pip install pandas
 pip install plotly
